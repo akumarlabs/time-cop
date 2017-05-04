@@ -1,0 +1,5 @@
+[jira-tempo-config]
+url = https://jira.tec.org/secure/TempoTeamBoard!timesheet.jspa?team=6&periodType=MONTH&periodView=DAY&exact=
+username = maxwalker
+password = melissawalker1994
+loggedHours = 8
