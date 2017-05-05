@@ -3,3 +3,13 @@ url = https://jira.tec.org/secure/TempoTeamBoard!timesheet.jspa?team=6&periodTyp
 username = maxwalker
 password = melissawalker1994
 loggedHours = 8
+
+[email-config]
+from = maxwalker@gmail.com
+subject = JIRA Timesheet Compliance
+smtp = smtp.gmail.com
+port = 587
+emailUsername = maxwalker@gmail.com
+emailPassword = melissawalker1994
+defaultto = maxwalker@gmail.com
+domain = @tec.org
